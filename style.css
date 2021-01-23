@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 main{
+=======
+<<<<<<< Updated upstream
+=======
+.main{
+>>>>>>> 8f368a7c5894f20821cc7e2f6f367b0cf4565e8d
     display: flex;
     width: 100vw;
     height: 100vh;
@@ -27,4 +33,12 @@ main{
     font: bold 2.5rem serif;
     border-bottom: solid 5px rgb(240, 4, 4);
     margin-bottom: 20px;
+<<<<<<< HEAD
 }
+=======
+}
+.input{
+    display: flex;
+}
+>>>>>>> Stashed changes
+>>>>>>> 8f368a7c5894f20821cc7e2f6f367b0cf4565e8d
